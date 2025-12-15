@@ -20,5 +20,8 @@
   "homepage": "https://github.com/AhmedElsayed6179/MarketHub_Data#readme",
   "dependencies": {
     "json-server": "^0.17.3"
+  },
+  "engines": {
+    "node": "18.x"
   }
 }

@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/AhmedElsayed6179/MarketHub_Data#readme",
   "dependencies": {
+    "cors": "^2.8.6",
     "json-server": "^0.17.3"
   },
   "engines": {
